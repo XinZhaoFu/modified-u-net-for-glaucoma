@@ -5,4 +5,4 @@
 
 requirements.txt文件与一些参数文件以及模型 将会在paper发表后进行更新
 
-若是各位感兴趣 后续会更新colab
+paper通过后会上传config文件
