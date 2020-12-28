@@ -6,3 +6,5 @@
 requirements.txt文件与一些参数文件以及模型 将会在paper发表后进行更新
 
 paper通过后会上传config文件
+
+有问题可issues 基佬网的邮件总是提醒着我要来回复
